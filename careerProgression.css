@@ -22,9 +22,12 @@ nav {
 	align-items: center;
 }
 .job-details {
-	height: 70vh;
-	background-color: lightpink;
 	flex: 2;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	opacity: 0;
 }
 .job-box {
 	background-color: #083a50;
@@ -50,4 +53,20 @@ nav {
 .job-btn:hover {
 	color: white;
 	background-color: #efbe67;
+}
+.job-opportunity,
+.job-duties,
+.job-cons {
+	background-color: #083a50;
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	align-items: flex-start;
+	justify-content: space-evenly;
+	padding: 2rem 1rem;
+	border: 0px solid rgb(227, 229, 232);
+	margin: 1rem 0;
+	border-radius: 5px;
+	color: #efbe67;
+	font-weight: 700;
 }

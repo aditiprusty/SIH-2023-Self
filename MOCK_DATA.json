@@ -1,0 +1,802 @@
+[
+	{
+		"id": 1,
+		"Job": "Executive Secretary",
+		"Salary": "$7859.13",
+		"Duties": "Reposition Perineum Tendon, Open Approach",
+		"opportunities": "Nondisplaced comminuted fracture of shaft of right femur",
+		"cons": "Localized traumatic opacities, right eye"
+	},
+	{
+		"id": 2,
+		"Job": "Database Administrator II",
+		"Salary": "$506.60",
+		"Duties": "Extirpation of Matter from Upper Tooth, All, External Approach",
+		"opportunities": "Congenital absence of both lower leg and foot, left lower limb",
+		"cons": "Partial retinal artery occlusion, unspecified eye"
+	},
+	{
+		"id": 3,
+		"Job": "Doctor",
+		"Salary": "$1577.14",
+		"Duties": "Nuclear Medicine, Veins, Planar Nuclear Medicine Imaging",
+		"opportunities": "Unspecified degenerated conditions of globe",
+		"cons": "Toxic effect of venom of scorpion, intentional self-harm"
+	},
+	{
+		"id": 4,
+		"Job": "Clinical Specialist",
+		"Salary": "$3315.61",
+		"Duties": "Drainage of Pharynx with Drainage Device, Percutaneous Approach",
+		"opportunities": "Unspecified disorder of circulatory system",
+		"cons": "Crushing injury of unspecified knee"
+	},
+	{
+		"id": 5,
+		"Job": "VP Marketing",
+		"Salary": "$7014.74",
+		"Duties": "Repair Phrenic Nerve, Open Approach",
+		"opportunities": "Other fracture of third metacarpal bone, right hand, subsequent encounter for fracture with nonunion",
+		"cons": "Lobster-claw hand, unspecified hand"
+	},
+	{
+		"id": 6,
+		"Job": "Human Resources Manager",
+		"Salary": "$5083.27",
+		"Duties": "Revision of Drainage Device in Diaphragm, Via Natural or Artificial Opening Endoscopic",
+		"opportunities": "Displaced segmental fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with delayed healing",
+		"cons": "Child physical abuse, confirmed"
+	},
+	{
+		"id": 7,
+		"Job": "Geologist IV",
+		"Salary": "$4487.24",
+		"Duties": "Change Packing Material on Left Lower Extremity",
+		"opportunities": "Strain of muscle, fascia and tendon of triceps, left arm, subsequent encounter",
+		"cons": "Obstetric laceration of cervix"
+	},
+	{
+		"id": 8,
+		"Job": "Internal Auditor",
+		"Salary": "$9660.74",
+		"Duties": "Drainage of Left Wrist Joint, Percutaneous Approach",
+		"opportunities": "Fall from chair, sequela",
+		"cons": "Unspecified physeal fracture of lower end of left femur, subsequent encounter for fracture with malunion"
+	},
+	{
+		"id": 9,
+		"Job": "Tax Accountant",
+		"Salary": "$5423.98",
+		"Duties": "Introduction of Anti-inflammatory into Respiratory Tract, Percutaneous Approach",
+		"opportunities": "Chronic gout due to renal impairment, unspecified hip",
+		"cons": "Displaced fracture of neck of fourth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"id": 10,
+		"Job": "Research Associate",
+		"Salary": "$1361.32",
+		"Duties": "Insertion of Infusion Device into Right Elbow Region, Open Approach",
+		"opportunities": "Toxic effect of other ingested (parts of) plant(s), accidental (unintentional)",
+		"cons": "Displaced fracture of head of unspecified radius, initial encounter for closed fracture"
+	},
+	{
+		"id": 11,
+		"Job": "Geologist I",
+		"Salary": "$9471.94",
+		"Duties": "Drainage of Right Hand Tendon, Open Approach, Diagnostic",
+		"opportunities": "Puncture wound with foreign body of unspecified hand",
+		"cons": "Superficial foreign body of left index finger, initial encounter"
+	},
+	{
+		"id": 12,
+		"Job": "Physical Therapy Assistant",
+		"Salary": "$3244.85",
+		"Duties": "Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Uncemented, Open Approach",
+		"opportunities": "Nondisplaced fracture of triquetrum [cuneiform] bone, right wrist",
+		"cons": "Gonococcal brain abscess"
+	},
+	{
+		"id": 13,
+		"Job": "Programmer Analyst IV",
+		"Salary": "$9642.87",
+		"Duties": "Drainage of Right Renal Artery, Open Approach, Diagnostic",
+		"opportunities": "Nelson's syndrome",
+		"cons": "Exostosis of orbit"
+	},
+	{
+		"id": 14,
+		"Job": "Technical Writer",
+		"Salary": "$18.47",
+		"Duties": "Fusion of Right Temporomandibular Joint with Synthetic Substitute, Open Approach",
+		"opportunities": "Effusion, left hip",
+		"cons": "Acute contact otitis externa, left ear"
+	},
+	{
+		"id": 15,
+		"Job": "Developer III",
+		"Salary": "$945.15",
+		"Duties": "Beam Radiation of Oropharynx using Heavy Particles (Protons,Ions)",
+		"opportunities": "Burn of second degree of multiple sites of left shoulder and upper limb, except wrist and hand, subsequent encounter",
+		"cons": "Military operations involving other explosions and fragments, civilian, subsequent encounter"
+	},
+	{
+		"id": 16,
+		"Job": "Staff Scientist",
+		"Salary": "$1311.78",
+		"Duties": "Supplement Scrotum with Autologous Tissue Substitute, External Approach",
+		"opportunities": "Other fracture of lower end of left femur, subsequent encounter for open fracture type I or II with malunion",
+		"cons": "Spontaneous rupture of extensor tendons, left forearm"
+	},
+	{
+		"id": 17,
+		"Job": "Structural Analysis Engineer",
+		"Salary": "$8941.37",
+		"Duties": "Dilation of Left Thyroid Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach",
+		"opportunities": "Fracture of angle of mandible",
+		"cons": "Unspecified effects of high altitude, sequela"
+	},
+	{
+		"id": 18,
+		"Job": "Engineer",
+		"Salary": "$1492.85",
+		"Duties": "Bypass Middle Esophagus to Ileum with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",
+		"opportunities": "Nondisplaced spiral fracture of shaft of left tibia, subsequent encounter for closed fracture with nonunion",
+		"cons": "Osteopathy in diseases classified elsewhere, right hand"
+	},
+	{
+		"id": 19,
+		"Job": "Graphic Designer",
+		"Salary": "$3929.89",
+		"Duties": "Excision of Left Main Bronchus, Open Approach",
+		"opportunities": "Laceration of gallbladder, subsequent encounter",
+		"cons": "Passenger in three-wheeled motor vehicle injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+	},
+	{
+		"id": 20,
+		"Job": "Junior Executive",
+		"Salary": "$5459.16",
+		"Duties": "Repair Right Hand, Percutaneous Endoscopic Approach",
+		"opportunities": "Other paralytic syndrome following other nontraumatic intracranial hemorrhage, bilateral",
+		"cons": "Acute embolism and thrombosis of unspecified popliteal vein"
+	},
+	{
+		"id": 21,
+		"Job": "Biostatistician II",
+		"Salary": "$6617.10",
+		"Duties": "Excision of Left Lower Extremity Lymphatic, Percutaneous Endoscopic Approach, Diagnostic",
+		"opportunities": "Fracture of other parts of neck, initial encounter",
+		"cons": "Displaced segmental fracture of shaft of humerus, right arm, sequela"
+	},
+	{
+		"id": 22,
+		"Job": "Cost Accountant",
+		"Salary": "$7433.20",
+		"Duties": "Replacement of Lower Lip with Autologous Tissue Substitute, Percutaneous Approach",
+		"opportunities": "Unspecified fracture of third metacarpal bone, left hand, subsequent encounter for fracture with delayed healing",
+		"cons": "Nondisplaced fracture of proximal phalanx of unspecified great toe, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"id": 23,
+		"Job": "VP Accounting",
+		"Salary": "$3159.01",
+		"Duties": "Transplantation of Female Reproductive System into Products of Conception, Via Natural or Artificial Opening",
+		"opportunities": "Abrasion, right lesser toe(s), sequela",
+		"cons": "Unspecified fracture of head of right femur, subsequent encounter for closed fracture with malunion"
+	},
+	{
+		"id": 24,
+		"Job": "VP Quality Control",
+		"Salary": "$3033.90",
+		"Duties": "Fusion of Left Carpal Joint with Autologous Tissue Substitute, Open Approach",
+		"opportunities": "Burn of third degree of back of right hand, sequela",
+		"cons": "Superficial foreign body of left little finger"
+	},
+	{
+		"id": 25,
+		"Job": "Editor",
+		"Salary": "$7570.65",
+		"Duties": "Dilation of Upper Esophagus, Via Natural or Artificial Opening",
+		"opportunities": "Terrorism involving fires, conflagration and hot substances, public safety official injured, sequela",
+		"cons": "Fall on same level due to stepping on an object"
+	},
+	{
+		"id": 26,
+		"Job": "Technical Writer",
+		"Salary": "$6804.12",
+		"Duties": "Destruction of Left Sphenoid Sinus, Percutaneous Approach",
+		"opportunities": "Hypersomnia",
+		"cons": "Unspecified superficial injury of right upper arm, subsequent encounter"
+	},
+	{
+		"id": 27,
+		"Job": "Senior Sales Associate",
+		"Salary": "$8887.07",
+		"Duties": "Substance Abuse Treatment, Group Counseling",
+		"opportunities": "Apraxia following cerebral infarction",
+		"cons": "Traumatic compartment syndrome of other sites"
+	},
+	{
+		"id": 28,
+		"Job": "Food Chemist",
+		"Salary": "$1500.93",
+		"Duties": "Restriction of Large Intestine, Via Natural or Artificial Opening Endoscopic",
+		"opportunities": "Single liveborn infant, born in hospital",
+		"cons": "Resistance to antiviral drug(s)"
+	},
+	{
+		"id": 29,
+		"Job": "Business Systems Development Analyst",
+		"Salary": "$6445.86",
+		"Duties": "Revision of Spacer in Right Wrist Joint, External Approach",
+		"opportunities": "Nondisplaced transverse fracture of shaft of left femur, sequela",
+		"cons": "Unspecified enophthalmos, bilateral"
+	},
+	{
+		"id": 30,
+		"Job": "Geologist II",
+		"Salary": "$7202.91",
+		"Duties": "Repair Trigeminal Nerve, Open Approach",
+		"opportunities": "Toxic effect of phenol and phenol homologues, undetermined",
+		"cons": "Other abdominal hernia"
+	},
+	{
+		"id": 31,
+		"Job": "Senior Developer",
+		"Salary": "$919.81",
+		"Duties": "Insertion of Contraceptive Device into Left Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach",
+		"opportunities": "Noninfective disorders of pinna, right ear",
+		"cons": "Malignant neoplasm of upper lobe, bronchus or lung"
+	},
+	{
+		"id": 32,
+		"Job": "Geological Engineer",
+		"Salary": "$7828.09",
+		"Duties": "Repair Right Femoral Vein, Percutaneous Endoscopic Approach",
+		"opportunities": "Chronic or unspecified duodenal ulcer with both hemorrhage and perforation",
+		"cons": "Complete oblique atypical femoral fracture, left leg, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"id": 33,
+		"Job": "Pharmacist",
+		"Salary": "$2117.02",
+		"Duties": "Restriction of Thoracic Aorta, Descending with Intraluminal Device, Percutaneous Endoscopic Approach",
+		"opportunities": "Shock due to anesthesia, subsequent encounter",
+		"cons": "Unspecified injury of left kidney, subsequent encounter"
+	},
+	{
+		"id": 34,
+		"Job": "Staff Scientist",
+		"Salary": "$3235.68",
+		"Duties": "Revision of Autologous Tissue Substitute in Left Tarsal Joint, Percutaneous Approach",
+		"opportunities": "Abdominal pregnancy with intrauterine pregnancy",
+		"cons": "Unspecified fracture of lower end of left tibia"
+	},
+	{
+		"id": 35,
+		"Job": "Research Nurse",
+		"Salary": "$2394.28",
+		"Duties": "Supplement Left Sacroiliac Joint with Synthetic Substitute, Open Approach",
+		"opportunities": "Toxic effect of herbicides and fungicides",
+		"cons": "Maternal care for anti-D [Rh] antibodies, second trimester, other fetus"
+	},
+	{
+		"id": 36,
+		"Job": "Assistant Professor",
+		"Salary": "$422.44",
+		"Duties": "Extraction of Radial Nerve, Open Approach",
+		"opportunities": "Displaced comminuted fracture of shaft of right femur, initial encounter for open fracture type I or II",
+		"cons": "Displaced comminuted fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with delayed healing"
+	},
+	{
+		"id": 37,
+		"Job": "Associate Professor",
+		"Salary": "$7693.69",
+		"Duties": "Extirpation of Matter from Right Carpal, Percutaneous Endoscopic Approach",
+		"opportunities": "Complete traumatic amputation of unspecified breast, subsequent encounter",
+		"cons": "Hemorrhage due to nervous system prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"id": 38,
+		"Job": "Sales Representative",
+		"Salary": "$8394.50",
+		"Duties": "Extirpation of Matter from Splenic Artery, Bifurcation, Percutaneous Approach",
+		"opportunities": "Daycare provider, perpetrator of maltreatment and neglect",
+		"cons": "Malignant neoplasm of paraurethral glands"
+	},
+	{
+		"id": 39,
+		"Job": "Recruiting Manager",
+		"Salary": "$7875.35",
+		"Duties": "Drainage of Left Lacrimal Duct, Percutaneous Approach, Diagnostic",
+		"opportunities": "Osteonecrosis due to drugs, right foot",
+		"cons": "Primary blast injury of bronchus"
+	},
+	{
+		"id": 40,
+		"Job": "Teacher",
+		"Salary": "$2687.42",
+		"Duties": "Excision of Right Axillary Lymphatic, Percutaneous Endoscopic Approach",
+		"opportunities": "Drowning and submersion due to falling or jumping from unspecified burning watercraft, subsequent encounter",
+		"cons": "Infection and inflammatory reaction due to other internal orthopedic prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"id": 41,
+		"Job": "Engineer I",
+		"Salary": "$5376.01",
+		"Duties": "Bypass Right Ulnar Artery to Lower Arm Vein, Open Approach",
+		"opportunities": "Puncture wound with foreign body of unspecified finger with damage to nail",
+		"cons": "Displaced transverse fracture of shaft of unspecified femur, initial encounter for open fracture type I or II"
+	},
+	{
+		"id": 42,
+		"Job": "Geologist I",
+		"Salary": "$688.29",
+		"Duties": "Revision of Drainage Device in Right Upper Extremity, Percutaneous Approach",
+		"opportunities": "Burn of first degree of unspecified palm",
+		"cons": "Disseminated coccidioidomycosis"
+	},
+	{
+		"id": 43,
+		"Job": "Product Engineer",
+		"Salary": "$7518.41",
+		"Duties": "Insertion of Infusion Device into Splenic Artery, Percutaneous Endoscopic Approach",
+		"opportunities": "Retinal artery branch occlusion, unspecified eye",
+		"cons": "External constriction of right back wall of thorax, initial encounter"
+	},
+	{
+		"id": 44,
+		"Job": "Statistician I",
+		"Salary": "$7363.98",
+		"Duties": "Replacement of Right Upper Eyelid with Synthetic Substitute, Open Approach",
+		"opportunities": "Pathological fracture in other disease, left foot, subsequent encounter for fracture with malunion",
+		"cons": "Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 4"
+	},
+	{
+		"id": 45,
+		"Job": "Staff Accountant IV",
+		"Salary": "$6177.80",
+		"Duties": "Excision of Superior Vena Cava, Percutaneous Endoscopic Approach, Diagnostic",
+		"opportunities": "Unspecified slipped upper femoral epiphysis (nontraumatic), left hip",
+		"cons": "Nondisplaced fracture of neck of fifth metacarpal bone, left hand, initial encounter for closed fracture"
+	},
+	{
+		"id": 46,
+		"Job": "Clinical Specialist",
+		"Salary": "$7790.28",
+		"Duties": "Insertion of External Fixation Device into Left Pelvic Bone, Percutaneous Approach",
+		"opportunities": "Displaced associated transverse-posterior fracture of unspecified acetabulum, subsequent encounter for fracture with nonunion",
+		"cons": "Displaced comminuted fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+	},
+	{
+		"id": 47,
+		"Job": "Pharmacist",
+		"Salary": "$5710.99",
+		"Duties": "Destruction of Left Upper Extremity Lymphatic, Open Approach",
+		"opportunities": "Fall from in-line roller-skates, subsequent encounter",
+		"cons": "Blepharochalasis left upper eyelid"
+	},
+	{
+		"id": 48,
+		"Job": "Senior Financial Analyst",
+		"Salary": "$8485.00",
+		"Duties": "Dilation of Right Posterior Tibial Artery with Drug-eluting Intraluminal Device, Percutaneous Approach",
+		"opportunities": "Displaced fracture of pisiform, right wrist, sequela",
+		"cons": "Traumatic hemorrhage of right cerebrum with loss of consciousness of 30 minutes or less"
+	},
+	{
+		"id": 49,
+		"Job": "Graphic Designer",
+		"Salary": "$2787.45",
+		"Duties": "Bypass Left External Iliac Artery to Left Internal Iliac Artery with Synthetic Substitute, Open Approach",
+		"opportunities": "Toxic effect of venom of gila monster, accidental (unintentional)",
+		"cons": "Tributary (branch) retinal vein occlusion, unspecified eye, with macular edema"
+	},
+	{
+		"id": 50,
+		"Job": "Financial Advisor",
+		"Salary": "$8131.31",
+		"Duties": "Replacement of Right Knee Joint, Tibial Surface with Synthetic Substitute, Cemented, Open Approach",
+		"opportunities": "Mediastinal (thymic) large B-cell lymphoma, unspecified site",
+		"cons": "Laceration of muscle and tendon of long extensor muscle of toe at ankle and foot level, right foot, initial encounter"
+	},
+	{
+		"id": 51,
+		"Job": "Quality Control Specialist",
+		"Salary": "$8396.98",
+		"Duties": "Supplement Left Internal Iliac Artery with Synthetic Substitute, Open Approach",
+		"opportunities": "Other superficial bite of unspecified foot",
+		"cons": "Sprain of unspecified rotator cuff capsule, initial encounter"
+	},
+	{
+		"id": 52,
+		"Job": "Recruiting Manager",
+		"Salary": "$1769.30",
+		"Duties": "Insertion of Radioactive Element into Upper Jaw, Percutaneous Approach",
+		"opportunities": "Malignant neoplasm of central portion of unspecified female breast",
+		"cons": "Chronic leukemia of unspecified cell type not having achieved remission"
+	},
+	{
+		"id": 53,
+		"Job": "VP Sales",
+		"Salary": "$8792.54",
+		"Duties": "Dilation of Right Colic Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach",
+		"opportunities": "Unspecified atherosclerosis of native arteries of extremities, unspecified extremity",
+		"cons": "War operations involving biological weapons"
+	},
+	{
+		"id": 54,
+		"Job": "VP Product Management",
+		"Salary": "$7206.10",
+		"Duties": "Removal of Autologous Tissue Substitute from Upper Jaw, External Approach",
+		"opportunities": "Patient's unintentional underdosing of medication regimen due to age-related debility",
+		"cons": "Drug or chemical induced diabetes mellitus with other skin ulcer"
+	},
+	{
+		"id": 55,
+		"Job": "Environmental Tech",
+		"Salary": "$1170.98",
+		"Duties": "Release Intracranial Vein, Percutaneous Endoscopic Approach",
+		"opportunities": "Unspecified fall, sequela",
+		"cons": "Unspecified fracture of unspecified patella, subsequent encounter for open fracture type I or II with nonunion"
+	},
+	{
+		"id": 56,
+		"Job": "Quality Engineer",
+		"Salary": "$9995.51",
+		"Duties": "Alteration of Face Subcutaneous Tissue and Fascia, Open Approach",
+		"opportunities": "Toxic effect of contact with unspecified venomous animal, undetermined, subsequent encounter",
+		"cons": "Legal intervention involving unspecified sharp objects, bystander injured"
+	},
+	{
+		"id": 57,
+		"Job": "Engineer III",
+		"Salary": "$3732.37",
+		"Duties": "Division of Right Clavicle, Open Approach",
+		"opportunities": "Mallet finger",
+		"cons": "Other superficial injuries of hip"
+	},
+	{
+		"id": 58,
+		"Job": "Sales Representative",
+		"Salary": "$9496.19",
+		"Duties": "Excision of Left Hip Joint, Percutaneous Approach",
+		"opportunities": "Spondylolisthesis, lumbar region",
+		"cons": "Decreased fetal movements, unspecified trimester"
+	},
+	{
+		"id": 59,
+		"Job": "Budget/Accounting Analyst IV",
+		"Salary": "$7825.47",
+		"Duties": "Excision of Bilateral Vas Deferens, Percutaneous Approach",
+		"opportunities": "Nondisplaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing",
+		"cons": "Puncture wound with foreign body of wrist"
+	},
+	{
+		"id": 60,
+		"Job": "Payment Adjustment Coordinator",
+		"Salary": "$6139.73",
+		"Duties": "Plain Radiography of Left Wrist using High Osmolar Contrast",
+		"opportunities": "Displaced fracture of shaft of third metacarpal bone, right hand, subsequent encounter for fracture with nonunion",
+		"cons": "Cleft palate"
+	},
+	{
+		"id": 61,
+		"Job": "Technical Writer",
+		"Salary": "$9966.24",
+		"Duties": "Removal of Internal Fixation Device from Right Tibia, Percutaneous Approach",
+		"opportunities": "Salter-Harris Type IV physeal fracture of left calcaneus, subsequent encounter for fracture with nonunion",
+		"cons": "Nondisplaced fracture of acromial process, right shoulder, sequela"
+	},
+	{
+		"id": 62,
+		"Job": "Physical Therapy Assistant",
+		"Salary": "$6815.30",
+		"Duties": "Fusion of Right Tarsal Joint, Open Approach",
+		"opportunities": "Poisoning by tetracyclic antidepressants, undetermined, initial encounter",
+		"cons": "Nondisplaced fracture of body of scapula, unspecified shoulder, sequela"
+	},
+	{
+		"id": 63,
+		"Job": "Senior Cost Accountant",
+		"Salary": "$7665.58",
+		"Duties": "Removal of Internal Fixation Device from Right Rib, External Approach",
+		"opportunities": "Other specified injury of unspecified muscles, fascia and tendons at thigh level, unspecified thigh, sequela",
+		"cons": "Adverse effect of diagnostic agents, sequela"
+	},
+	{
+		"id": 64,
+		"Job": "Electrical Engineer",
+		"Salary": "$2897.95",
+		"Duties": "Excision of Right Breast, Via Natural or Artificial Opening",
+		"opportunities": "Salter-Harris Type II physeal fracture of lower end of ulna, left arm, subsequent encounter for fracture with nonunion",
+		"cons": "Corrosion of third degree of multiple sites of unspecified shoulder and upper limb, except wrist and hand, subsequent encounter"
+	},
+	{
+		"id": 65,
+		"Job": "Chemical Engineer",
+		"Salary": "$5964.54",
+		"Duties": "Release Right Wrist Joint, Percutaneous Approach",
+		"opportunities": "Unspecified sprain of unspecified lesser toe(s)",
+		"cons": "Intraductal carcinoma in situ of breast"
+	},
+	{
+		"id": 66,
+		"Job": "Sales Representative",
+		"Salary": "$7808.18",
+		"Duties": "Destruction of Sigmoid Colon, Via Natural or Artificial Opening Endoscopic",
+		"opportunities": "Radial collateral ligament sprain of right elbow, sequela",
+		"cons": "Other cerebrovascular disorders in diseases classified elsewhere"
+	},
+	{
+		"id": 67,
+		"Job": "Office Assistant I",
+		"Salary": "$6999.45",
+		"Duties": "Extraction of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",
+		"opportunities": "Bariatric surgery status complicating childbirth",
+		"cons": "Nondisplaced fracture of medial phalanx of left little finger, subsequent encounter for fracture with malunion"
+	},
+	{
+		"id": 68,
+		"Job": "Associate Professor",
+		"Salary": "$9241.85",
+		"Duties": "Removal of Infusion Pump from Upper Extremity Subcutaneous Tissue and Fascia, Open Approach",
+		"opportunities": "Complications of other internal prosthetic devices, implants and grafts",
+		"cons": "Salter-Harris Type III physeal fracture of lower end of ulna, unspecified arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"id": 69,
+		"Job": "Quality Control Specialist",
+		"Salary": "$5330.14",
+		"Duties": "Home Management Treatment using Electrotherapeutic Equipment",
+		"opportunities": "Injury of lumbosacral plexus, sequela",
+		"cons": "Cauliflower ear, unspecified ear"
+	},
+	{
+		"id": 70,
+		"Job": "Recruiter",
+		"Salary": "$5699.60",
+		"Duties": "Removal of Autologous Tissue Substitute from Lumbosacral Disc, Open Approach",
+		"opportunities": "Mechanical loosening of internal left hip prosthetic joint, initial encounter",
+		"cons": "Vitreous membranes and strands, right eye"
+	},
+	{
+		"id": 71,
+		"Job": "Sales Associate",
+		"Salary": "$974.64",
+		"Duties": "Replacement of Right Upper Arm Subcutaneous Tissue and Fascia with Autologous Tissue Substitute, Percutaneous Approach",
+		"opportunities": "4-part fracture of surgical neck of unspecified humerus, subsequent encounter for fracture with malunion",
+		"cons": "Passenger in three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident"
+	},
+	{
+		"id": 72,
+		"Job": "Senior Developer",
+		"Salary": "$1756.78",
+		"Duties": "Bypass Right Common Iliac Vein to Lower Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+		"opportunities": "Listerial meningitis",
+		"cons": "Intervertebral disc disorders with myelopathy, thoracolumbar region"
+	},
+	{
+		"id": 73,
+		"Job": "Electrical Engineer",
+		"Salary": "$7410.07",
+		"Duties": "Drainage of Left Hand Tendon with Drainage Device, Open Approach",
+		"opportunities": "Poisoning by iminostilbenes, accidental (unintentional), subsequent encounter",
+		"cons": "Lichenoid drug reaction"
+	},
+	{
+		"id": 74,
+		"Job": "Electrical Engineer",
+		"Salary": "$2695.23",
+		"Duties": "Insertion of Infusion Device into Testis, Percutaneous Approach",
+		"opportunities": "Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",
+		"cons": "Other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction"
+	},
+	{
+		"id": 75,
+		"Job": "Cost Accountant",
+		"Salary": "$4918.17",
+		"Duties": "Repair Left Face Vein, Percutaneous Endoscopic Approach",
+		"opportunities": "Burn of first degree of right lower leg, initial encounter",
+		"cons": "Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter"
+	},
+	{
+		"id": 76,
+		"Job": "Geological Engineer",
+		"Salary": "$5971.99",
+		"Duties": "Removal of Other Device from Chest Wall, Percutaneous Approach",
+		"opportunities": "Burn of second degree of single left finger (nail) except thumb, subsequent encounter",
+		"cons": "Nondisplaced fracture of coracoid process, right shoulder, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"id": 77,
+		"Job": "Desktop Support Technician",
+		"Salary": "$3379.50",
+		"Duties": "Revision of Synthetic Substitute in Right Sternoclavicular Joint, Open Approach",
+		"opportunities": "Nondisplaced fracture of pisiform, left wrist, initial encounter for closed fracture",
+		"cons": "Intentional collision of motor vehicle with tree"
+	},
+	{
+		"id": 78,
+		"Job": "Information Systems Manager",
+		"Salary": "$1190.17",
+		"Duties": "Plain Radiography of Right Calcaneus",
+		"opportunities": "Strain of flexor muscle, fascia and tendon of left middle finger at wrist and hand level, subsequent encounter",
+		"cons": "Toxic effect of sulfur dioxide, intentional self-harm, initial encounter"
+	},
+	{
+		"id": 79,
+		"Job": "Director of Sales",
+		"Salary": "$265.96",
+		"Duties": "Restriction of Right Peroneal Artery, Percutaneous Approach",
+		"opportunities": "Toxic effect of tetrachloroethylene, accidental (unintentional)",
+		"cons": "Inhalant use, unspecified with intoxication, unspecified"
+	},
+	{
+		"id": 80,
+		"Job": "Payment Adjustment Coordinator",
+		"Salary": "$8101.64",
+		"Duties": "Bypass Right External Iliac Artery to Foot Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",
+		"opportunities": "Encounter for observation for suspected toxic effect from ingested substance ruled out",
+		"cons": "Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter"
+	},
+	{
+		"id": 81,
+		"Job": "Research Nurse",
+		"Salary": "$6875.30",
+		"Duties": "Bypass Left Ureter to Ileum with Nonautologous Tissue Substitute, Open Approach",
+		"opportunities": "Other contact with other nonvenomous marine animals, subsequent encounter",
+		"cons": "Strain of flexor muscle, fascia and tendon of right index finger at wrist and hand level, initial encounter"
+	},
+	{
+		"id": 82,
+		"Job": "Senior Editor",
+		"Salary": "$5487.90",
+		"Duties": "Revision of Synthetic Substitute in Right Toe Phalangeal Joint, Open Approach",
+		"opportunities": "Multiple sclerosis",
+		"cons": "Minor laceration of unspecified vertebral artery, sequela"
+	},
+	{
+		"id": 83,
+		"Job": "Systems Administrator I",
+		"Salary": "$8250.63",
+		"Duties": "Supplement Esophagogastric Junction with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",
+		"opportunities": "Post-traumatic headache, unspecified",
+		"cons": "Other fracture of shaft of right humerus, sequela"
+	},
+	{
+		"id": 84,
+		"Job": "Account Representative IV",
+		"Salary": "$1633.81",
+		"Duties": "Bypass Bladder to Ileocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+		"opportunities": "Poisoning by other specified systemic anti-infectives and antiparasitics, accidental (unintentional), initial encounter",
+		"cons": "Ascariasis with other complications"
+	},
+	{
+		"id": 85,
+		"Job": "Accountant II",
+		"Salary": "$2191.90",
+		"Duties": "Release Thoracolumbar Vertebral Disc, External Approach",
+		"opportunities": "Sprain of metacarpophalangeal joint of right index finger",
+		"cons": "Unspecified open wound of vagina and vulva"
+	},
+	{
+		"id": 86,
+		"Job": "Data Coordinator",
+		"Salary": "$37.86",
+		"Duties": "Supplement Thoracolumbar Vertebral Joint with Synthetic Substitute, Open Approach",
+		"opportunities": "Bennett's fracture, unspecified hand, initial encounter for open fracture",
+		"cons": "Other fracture of fourth thoracic vertebra"
+	},
+	{
+		"id": 87,
+		"Job": "Administrative Assistant IV",
+		"Salary": "$3767.58",
+		"Duties": "Inspection of Left Tympanic Membrane, External Approach",
+		"opportunities": "Struck by baseball bat, sequela",
+		"cons": "Oligohydramnios, third trimester, fetus 2"
+	},
+	{
+		"id": 88,
+		"Job": "VP Marketing",
+		"Salary": "$9656.94",
+		"Duties": "Therapeutic Exercise Treatment of Circulatory System - Upper Back / Upper Extremity using Aerobic Endurance and Conditioning Equipment",
+		"opportunities": "Foreign body granuloma of soft tissue, not elsewhere classified, left upper arm",
+		"cons": "Laceration with foreign body of shoulder"
+	},
+	{
+		"id": 89,
+		"Job": "Graphic Designer",
+		"Salary": "$1291.26",
+		"Duties": "Bypass Spinal Canal to Urinary Tract with Autologous Tissue Substitute, Percutaneous Approach",
+		"opportunities": "Disorder of ligament",
+		"cons": "Optic nerve hypoplasia, left eye"
+	},
+	{
+		"id": 90,
+		"Job": "Mechanical Systems Engineer",
+		"Salary": "$1978.40",
+		"Duties": "Drainage of Trochlear Nerve, Percutaneous Endoscopic Approach, Diagnostic",
+		"opportunities": "Unspecified injury of popliteal vein, unspecified leg",
+		"cons": "Primary blast injury of lung, unilateral, subsequent encounter"
+	},
+	{
+		"id": 91,
+		"Job": "Administrative Assistant II",
+		"Salary": "$3984.05",
+		"Duties": "Revision of Synthetic Substitute in Right Wrist Joint, Percutaneous Endoscopic Approach",
+		"opportunities": "Lead-induced chronic gout, right hip",
+		"cons": "Displacement of coronary artery bypass graft, sequela"
+	},
+	{
+		"id": 92,
+		"Job": "Media Manager I",
+		"Salary": "$7181.45",
+		"Duties": "Auditory Processing Treatment",
+		"opportunities": "Underdosing of thrombolytic drugs",
+		"cons": "Legal intervention involving unspecified sharp objects, law enforcement official injured"
+	},
+	{
+		"id": 93,
+		"Job": "Senior Editor",
+		"Salary": "$8238.48",
+		"Duties": "Drainage of Ulnar Nerve, Open Approach",
+		"opportunities": "Other injury of unspecified muscle(s) and tendon(s) at lower leg level, right leg, sequela",
+		"cons": "Arthritis due to other bacteria, unspecified ankle and foot"
+	},
+	{
+		"id": 94,
+		"Job": "VP Product Management",
+		"Salary": "$8338.29",
+		"Duties": "Repair Right Elbow Joint, External Approach",
+		"opportunities": "Personal history of malignant neoplasm of soft tissue",
+		"cons": "Conjoined twin pregnancy"
+	},
+	{
+		"id": 95,
+		"Job": "Geological Engineer",
+		"Salary": "$6483.41",
+		"Duties": "Drainage of Posterior Neck Subcutaneous Tissue and Fascia, Percutaneous Approach",
+		"opportunities": "Person boarding or alighting a motorcycle injured in collision with car, pick-up truck or van, initial encounter",
+		"cons": "Other fracture of lower end of unspecified tibia, initial encounter for closed fracture"
+	},
+	{
+		"id": 96,
+		"Job": "Senior Editor",
+		"Salary": "$8686.77",
+		"Duties": "Excision of Right External Iliac Vein, Percutaneous Approach, Diagnostic",
+		"opportunities": "Unspecified occupant of special construction vehicle injured in traffic accident, sequela",
+		"cons": "Burn of first degree of lower back, sequela"
+	},
+	{
+		"id": 97,
+		"Job": "Computer Systems Analyst III",
+		"Salary": "$8811.17",
+		"Duties": "Drainage of Left Toe Phalangeal Joint, Open Approach, Diagnostic",
+		"opportunities": "Unspecified fracture of second lumbar vertebra, initial encounter for open fracture",
+		"cons": "Cerebral arteritis in other diseases classified elsewhere"
+	},
+	{
+		"id": 98,
+		"Job": "VP Sales",
+		"Salary": "$1907.83",
+		"Duties": "Occlusion of Right Parotid Duct, Percutaneous Approach",
+		"opportunities": "Blister (nonthermal) of right forearm",
+		"cons": "Unspecified injury of muscle, fascia and tendon of the posterior muscle group at thigh level, left thigh"
+	},
+	{
+		"id": 99,
+		"Job": "Project Manager",
+		"Salary": "$5741.11",
+		"Duties": "Fluoroscopy of Abdominal Aorta using Low Osmolar Contrast, Laser Intraoperative",
+		"opportunities": "Kidney transplant rejection",
+		"cons": "Stable burst fracture of T9-T10 vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"id": 100,
+		"Job": "GIS Technical Architect",
+		"Salary": "$8948.18",
+		"Duties": "Dilation of Right Parotid Duct with Intraluminal Device, Open Approach",
+		"opportunities": "Nondisplaced fracture of first metatarsal bone, unspecified foot, subsequent encounter for fracture with malunion",
+		"cons": "Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, sequela"
+	}
+]

@@ -30,8 +30,8 @@ function found(job) {
 				// DOM Work
 				salary.textContent = foundObject.Salary;
 				duties.textContent = foundObject.Duties;
-				opportunity.textContent = foundObject.opportunities;
-				cons.textContent = foundObject.cons;
+				opportunity.textContent = foundObject.Opportunities;
+				cons.textContent = foundObject.Cons;
 			} else {
 				console.log('Object with Job "' + jobToFind + '" not found');
 			}

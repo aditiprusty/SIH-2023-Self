@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, render_template
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
@@ -17,10 +17,13 @@ y = df['Recommended Career']
 rf_classifier = RandomForestClassifier(n_estimators=100, random_state=42)
 rf_classifier.fit(X, y)
 
+# Serve static files (CSS)
+app.static_folder = 'static'
+
 # Define the root route to render the HTML form
 @app.route('/', methods=['GET'])
 def index():
-    return render_template('input_form.html')
+    return render_template('index.html')
 
 # Define an API endpoint for career recommendations
 @app.route('/recommend', methods=['POST'])
@@ -45,6 +48,19 @@ def create_user_profile(user_input):
            f"Hobbies: {user_input['Hobbies']} " \
            f"Passion: {user_input['Passion']} " \
            f"Favourite Subject: {user_input['Favourite Subject']}"
+
+# Route to display career details when clicked
+@app.route('/career/<career_name>', methods=['GET'])
+def display_career_details(career_name):
+    # Retrieve career details from the dataset
+    career_details = df[df['Recommended Career'] == career_name].iloc[0]
+    
+    # Render the career details template with the data
+    return render_template('career_template.html',
+                           career=career_name,
+                           salary=career_details['Salary'],
+                           job_description=career_details['Job Description'],
+                           job_security=career_details['Job Security'])
 
 if __name__ == '__main__':
     app.run(debug=True)
